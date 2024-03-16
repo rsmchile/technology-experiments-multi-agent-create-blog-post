@@ -8,7 +8,7 @@ This project, a venture of RSM Chile Technology, Advanced Analytics, demonstrate
 For those interested in exploring the code behind this project or reading the detailed blog post, please follow the links below:
 
 - **Project Code**: [main.ipynb](https://github.com/RSMChileTechnology/MultiAgentSystem_GPT4_Anniversary/blob/main/main.ipynb)
-- **Blog Post**: [A Year of GPT-4: Revolutionizing Our Daily Lives](https://www.linkedin.com/feed/update/urn:li:activity:7174439355455782913/)
+- **Blog Post**: [A Year of GPT-4: Revolutionizing Our Daily Lives](https://www.linkedin.com/pulse/celebrating-gpt-4s-first-anniversary-ai-generated-article-argomedo-fnzrf)
 
 
 ## Libraries and Tools Used
@@ -51,4 +51,4 @@ This project showcases the power of collaborative AI through a multi-agent syste
 
 This project was made by:
 
-- **José Gregorio Argomedo B.**, Partner, Technology at RSM Chile Technology.
+- **José Gregorio Argomedo B.**, Partner, Technology at RSM Chile.
